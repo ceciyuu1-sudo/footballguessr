@@ -2,7 +2,7 @@
 
 **The ultimate football guessing game.** Guess the mystery player in a limited number of tries — think Wordle, but for football.
 
-🔗 [Play it live](https://ceciyuu1-sudo.github.io/Footdle/)
+🔗 [Play it live](https://ceciyuu1-sudo.github.io/footballguessr/)
 
 ## Features
 
